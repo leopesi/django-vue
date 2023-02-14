@@ -3,13 +3,13 @@
       <h4>Tutorial</h4>
       <form>
         <div class="form-group">
-          <label for="title">Title</label>
+          <label for="title">Título</label>
           <input type="text" class="form-control" id="title"
             v-model="currentTutorial.title"
           />
         </div>
         <div class="form-group">
-          <label for="description">Description</label>
+          <label for="description">Descrição</label>
           <input type="text" class="form-control" id="description"
             v-model="currentTutorial.description"
           />
