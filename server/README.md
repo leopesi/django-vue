@@ -7,9 +7,7 @@
 
 ![Skills](https://skills.thijs.gg/icons?i=python,django,sqlite,git&theme=light)
 
-:arrow_forward:  https://leopesi.github.io/proyecto_UTN/
-
-:arrow_forward:  https://proyecto-utn.s3.sa-east-1.amazonaws.com/index.html
+:arrow_forward:  https://tutorial-blog.herokuapp.com/
 
 
 # Django Restful CRUD API 
